@@ -1,0 +1,6 @@
+{
+  "name": "Shree Balaji Traders - Wholesale & Retail Hub",
+  "description": "B2B Bulk Wholesale and B2C Retail trading portal with tiered pricing, GST invoicing, quick order sheets, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
